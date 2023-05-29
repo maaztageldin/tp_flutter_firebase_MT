@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183417387514",
+    "project_id": "tp-flutter-firebase-mt",
+    "storage_bucket": "tp-flutter-firebase-mt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183417387514:android:58052df3a72b0b00108c43",
+        "android_client_info": {
+          "package_name": "com.maaz.tpnotee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8RCgZctdJeNKXLzO4NqIwqD-iT-vPOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
