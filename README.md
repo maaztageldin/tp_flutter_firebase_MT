@@ -1,21 +1,16 @@
-# tp_flutter_firebase_MT
+# tpnotee
 
-le sujet de ce TP est de développer une application proposant:
+A new Flutter project.
 
-- une page avec une liste de posts (un post possède un titre et une description) qui vient de votre base de données Firestore.
-- une page de détail d'un poste avec la possibilité de modifier un post existant.
-- un bouton flottant amenant à une page permettant de créer un nouveau post.
-- Que ce soit pour la récupération des posts, la modification ou la création d’un nouveau post, tous les états potentiels doivent être gérés (vide, succès, erreur, chargement).
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-**Firebase**
-- - Mise en place Crashlytics
-- Utilisation du Firestore
-- Projet qui tourne à la fois sur Android et sur iOS
-- Gestion en temps réel
+A few resources to get you started if this is your first Flutter project:
 
-**Flutter** 
-- Respect du pattern BloC
-- Respect du pattern Repository
-- Gestion des états
-- Faire un widget test sur la page d’affichage de la liste qui test les 4 états possible
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
